@@ -1,0 +1,6 @@
+project: chatgpt-express-bot
+configVersion: 1
+---
+image: api
+dockerfile: Dockerfile
+target: api
